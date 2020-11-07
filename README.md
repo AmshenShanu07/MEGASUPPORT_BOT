@@ -126,7 +126,7 @@ STEP 4
 ## Deploying
 CLICK DEPLOY BUTTON ON YOUR FORKED REPO. THATS IT !
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Madhavreddy672/Mirrorbot_Megasupport/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Madhavreddy672/MEGASUPPORT_BOT/tree/main)
 
 
 # How to deploy? Legacy Method
@@ -135,7 +135,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/Madhavreddy672/Mirrorbot_Megasupport
+git clone https://github.com/Madhavreddy672/MEGASUPPORT_BOT
 cd mirror-bot
 ```
 
